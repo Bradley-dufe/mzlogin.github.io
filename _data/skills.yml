@@ -1,19 +1,17 @@
-- name: Software Engineer Keywords
+- name: BigData Developer Keywords
   keywords:
-      - Java
-      - C++
+      - Java, Scala, Python
+      - Spark, Kafka, ElasticSearch, Redis
+
+- name: Machine Learning Engineer Keywords
+  keywords:
+      - Regression, LR, SVR, NN
+      - Cluster, KNN
+      - GBDT, RF
+      - LDA
+- name:  Recommend System Engineer Keywords
+  keywords:
       - Python
-      - Design Patterns
-
-- name: Mobile Developer Keywords
-  keywords:
-      - Android
-      - Reverse Engineering
-
-- name: Windows Developer Keywords
-  keywords:
-      - Win32 SDK
-      - DuiLib
-      - WTL
-      - COM
-      - WinDbg
+      - LR, SVD
+      - FM, FFM
+      - DeepNets
